@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-25T05:01:04Z" name="Default suite" finished-at="2022-04-25T05:01:18Z" duration-ms="14401">
+    <groups>
+    </groups>
+    <test started-at="2022-04-25T05:01:04Z" name="Default test" finished-at="2022-04-25T05:01:18Z" duration-ms="14401">
+      <class name="com.undostres.tests.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.undostres.tests.NewTest@5745ca0e]" started-at="2022-04-25T00:01:04Z" name="beforeTest" finished-at="2022-04-25T00:01:07Z" duration-ms="3299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="selectNumberAndRecharge()[pri:0, instance:com.undostres.tests.NewTest@5745ca0e]" started-at="2022-04-25T00:01:07Z" name="selectNumberAndRecharge" finished-at="2022-04-25T00:01:18Z" duration-ms="10462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectNumberAndRecharge -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.undostres.tests.NewTest@5745ca0e]" started-at="2022-04-25T00:01:18Z" name="afterTest" finished-at="2022-04-25T00:01:18Z" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.undostres.tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
